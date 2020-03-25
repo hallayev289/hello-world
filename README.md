@@ -1,4 +1,2 @@
 # hello-world
-learning github by doing
-
-Hello world is being edited
+At last inspiration is back again ti learn codeing!!!
